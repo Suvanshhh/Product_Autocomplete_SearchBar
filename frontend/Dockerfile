@@ -7,7 +7,6 @@ COPY . .
 RUN npm install
 RUN npm run build
 
-# Install a lightweight server to serve the build
 RUN npm install -g serve
 
 EXPOSE 5173
