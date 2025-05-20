@@ -79,4 +79,4 @@ Final result list is sorted based on the total score in descending order before 
 
 ## ✅ Summary
 
-This FastAPI-based backend is optimized for performance, clarity, and correctness for an autocomplete-style product search. It handles validation, edge cases, ranking, and pagination with clean modular code and is ready to be scaled with a real database if needed.
+This FastAPI-based backend is optimized for performance, clarity, and correctness for an autocomplete-style product search. It handles validation, edge cases, ranking, and pagination with clean modular code.
